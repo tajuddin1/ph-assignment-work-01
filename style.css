@@ -63,13 +63,15 @@
     border-radius: 10px;
     background-color: #4E47FF;
     color: #FFFFFF;
-   transition: 0.3s ;
+    transition: 0.3s;
 }
-.style-btn:hover{
-  
-  background-color: #357ABD;
+
+.style-btn:hover {
+
+    background-color: #357ABD;
 
 }
+
 .padding-area {
     padding: 70px 0;
 }
@@ -299,7 +301,7 @@ nav {
     border: 1px solid #00000075;
     outline: 0;
     border-radius: 10px;
-    margin: 0  0 10px;
+    margin: 0 0 10px;
 }
 
 
